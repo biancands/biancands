@@ -45,7 +45,7 @@ I enjoy projects that combine software, mathematics and visual information — e
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp&perline=7" />
 </p>
 
 <p align="center">
